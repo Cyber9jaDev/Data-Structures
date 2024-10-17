@@ -5,6 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "two-sum": "tsx --watch ./src/leetcode/easy/two-sum.ts",
+    "summation": "tsx --watch ./src/algorithms/summation.ts",
+    "fibonacci": "tsx --watch ./src/algorithms/fibonacci.ts",
     "three-sum": "tsx --watch ./src/leetcode/easy/three-sum.ts",
     "dev": "tsx --watch ./src/main.ts",
     "setters": "tsx --watch ./src/setters.ts"
