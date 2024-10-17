@@ -1,0 +1,18 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "two-sum": "tsx --watch ./src/leetcode/easy/two-sum.ts",
+    "three-sum": "tsx --watch ./src/leetcode/easy/three-sum.ts",
+    "dev": "tsx --watch ./src/main.ts",
+    "setters": "tsx --watch ./src/setters.ts"
+  },
+  "author": "Ayodeji Oladapo",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
