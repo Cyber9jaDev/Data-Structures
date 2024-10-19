@@ -5,9 +5,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "two-sum": "tsx --watch ./src/leetcode/easy/two-sum.ts",
+    "three-sum": "tsx --watch ./src/leetcode/easy/three-sum.ts",
+    "length-of-last-word": "tsx --watch ./src/leetcode/easy/length-of-last-word.ts",
     "summation": "tsx --watch ./src/algorithms/summation.ts",
     "fibonacci": "tsx --watch ./src/algorithms/fibonacci.ts",
-    "three-sum": "tsx --watch ./src/leetcode/easy/three-sum.ts",
+    "factorial": "tsx --watch ./src/algorithms/factorial.ts",
+    "prime": "tsx --watch ./src/algorithms/prime.ts",
     "dev": "tsx --watch ./src/main.ts",
     "setters": "tsx --watch ./src/setters.ts"
   },
