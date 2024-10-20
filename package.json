@@ -10,7 +10,6 @@
     "palindrome": "tsx --watch ./src/leetcode/easy/palindrome.ts",
     "summation": "tsx --watch ./src/algorithms/summation.ts",
     "fibonacci": "tsx --watch ./src/algorithms/fibonacci.ts",
-    "three-sum": "tsx --watch ./src/leetcode/easy/three-sum.ts",
     "dev": "tsx --watch ./src/main.ts",
     "setters": "tsx --watch ./src/setters.ts"
   },
