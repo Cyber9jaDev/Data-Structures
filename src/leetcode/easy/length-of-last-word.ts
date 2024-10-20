@@ -4,3 +4,5 @@ function lengthOfLastWord(words: string): number {
 }
 
 console.log(lengthOfLastWord("   fly me   to   the moon "));
+
+

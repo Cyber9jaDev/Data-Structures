@@ -7,6 +7,7 @@
     "two-sum": "tsx --watch ./src/leetcode/easy/two-sum.ts",
     "three-sum": "tsx --watch ./src/leetcode/easy/three-sum.ts",
     "length-of-last-word": "tsx --watch ./src/leetcode/easy/length-of-last-word.ts",
+    "palindrome": "tsx --watch ./src/leetcode/easy/palindrome.ts",
     "summation": "tsx --watch ./src/algorithms/summation.ts",
     "fibonacci": "tsx --watch ./src/algorithms/fibonacci.ts",
     "factorial": "tsx --watch ./src/algorithms/factorial.ts",
